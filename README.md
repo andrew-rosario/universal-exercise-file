@@ -21,3 +21,8 @@ I was thinking of this standard like "exercise cards" which contain the movement
 So that's the concept.
 
 ## Features
+- Basic metadata (name, muscle group, necessary equipment)
+- Rich media support, such as pictures, GIFs, 3D models, and videos, either contained in-file or external link.
+- Detailed instructions area.
+- Optional database storage; store workout history, personal records, volume, repetitions performed, sets done, etc.
+- If previous, able to compute analytics over span of time using data
